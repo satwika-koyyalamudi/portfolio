@@ -67,14 +67,23 @@ function Projects() {
             </p>
             <div className="buttons">
               <a
-                href="#home"
+                href="https://github.com/satwika-koyyalamudi/portfolio"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="project-button"
               >
-                Go to Home
+                View Code
+              </a>
+              <a
+                href="https://bright-babka-c4221b.netlify.app/#projects" // replace with your actual Netlify link
+                target="_blank"
+                rel="noopener noreferrer"
+                className="project-button"
+              >
+                Live Demo
               </a>
             </div>
           </div>
-
         </div>
       </div>
     </section>
