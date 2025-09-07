@@ -9,7 +9,7 @@ function Home() {
 
       <div className="home">
         <div className="home-content">
-          <h1>Hi, I'm Satwika</h1>
+          <h1>Hi, I'm Satwika Koyyalamudi</h1>
           <h2>
             <ReactTyped
               strings={["Web Developer", "Problem Solver", "Tech Enthusiast"]}
