@@ -25,7 +25,7 @@ function Projects() {
                 View Code
               </a>
               <a
-                href="https://eventplanner-demo.netlify.app" // replace with your live link
+                href="https://bespoke-kitten-9d1aac.netlify.app" // replace with your live link
                 target="_blank"
                 rel="noopener noreferrer"
                 className="project-button"
